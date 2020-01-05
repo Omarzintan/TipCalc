@@ -5,5 +5,6 @@ TipCalc is an app that calculates tips based on selected percentages.
 Basic functionality works properly
 
 ### TODOS
-Complete implementation for settings screen
-Improve GUI of the app
+Complete implementation for settings screen. 
+Improve GUI of the app.
+Add app logo
