@@ -15,6 +15,7 @@
 		BFC7ACB523C1426E0012B212 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFC7ACB323C1426E0012B212 /* LaunchScreen.storyboard */; };
 		BFC7ACC023C1426E0012B212 /* TipCalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC7ACBF23C1426E0012B212 /* TipCalcTests.swift */; };
 		BFC7ACCB23C1426E0012B212 /* TipCalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC7ACCA23C1426E0012B212 /* TipCalcUITests.swift */; };
+		BFC7ACDB23C1CF060012B212 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC7ACDA23C1CF060012B212 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BFC7ACC623C1426E0012B212 /* TipCalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFC7ACCA23C1426E0012B212 /* TipCalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalcUITests.swift; sourceTree = "<group>"; };
 		BFC7ACCC23C1426E0012B212 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFC7ACDA23C1CF060012B212 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BFC7ACA723C1426C0012B212 /* AppDelegate.swift */,
 				BFC7ACA923C1426C0012B212 /* ViewController.swift */,
 				BFC7ACAB23C1426D0012B212 /* Main.storyboard */,
+				BFC7ACDA23C1CF060012B212 /* SettingsViewController.swift */,
 				BFC7ACB123C1426E0012B212 /* Assets.xcassets */,
 				BFC7ACB323C1426E0012B212 /* LaunchScreen.storyboard */,
 				BFC7ACB623C1426E0012B212 /* Info.plist */,
@@ -262,6 +265,7 @@
 				BFC7ACB023C1426D0012B212 /* TipCalc.xcdatamodeld in Sources */,
 				BFC7ACAA23C1426C0012B212 /* ViewController.swift in Sources */,
 				BFC7ACA823C1426C0012B212 /* AppDelegate.swift in Sources */,
+				BFC7ACDB23C1CF060012B212 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
